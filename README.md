@@ -1,1 +1,3 @@
-# python-boto-script-EC2
+#### >> python script.py <start/stop> <instance-id>
+#### >> python varibale-number-instances.py <start/stop> <instance-id> <instance-id> ....... 
+##### note: we need to give programatic access to the user whose credentials are used here in this script for automating the EC2 start/stop.
